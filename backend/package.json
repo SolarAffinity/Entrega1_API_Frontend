@@ -1,0 +1,15 @@
+{
+  "name": "entrega1-api-carts-products",
+  "version": "1.0.0",
+  "description": "API de productos y carritos (Express, FS) + Frontend Bootstrap",
+  "main": "src/app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node src/app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
